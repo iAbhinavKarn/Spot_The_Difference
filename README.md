@@ -6,3 +6,4 @@ For using this download xampp or wampp server.
 # 2: unzip your file unzip Spot_The_Difference.zip
 # 3: Start your xampp or wampp sever.
 # 4: Open your Browser and in new tab type localhost/Spot_The_Difference.
+![Home Page](https://github.com/yupthatcrazyguy/Spot_The_Difference/blob/master/Screenshots/1.png)
