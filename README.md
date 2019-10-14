@@ -7,3 +7,7 @@ For using this download xampp or wampp server.
 # 3: Start your xampp or wampp sever.
 # 4: Open your Browser and in new tab type localhost/Spot_The_Difference.
 ![Home Page](https://github.com/yupthatcrazyguy/Spot_The_Difference/blob/master/Screenshots/1.png)
+# 5: Home Page should look like this if above steps done properly.
+![Uploaded Images](https://github.com/yupthatcrazyguy/Spot_The_Difference/blob/master/Screenshots/2.png)
+# 6: After uploading images it will show like this.
+![Output Page](https://github.com/yupthatcrazyguy/Spot_The_Difference/blob/master/Screenshots/3.png)
