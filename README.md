@@ -1,5 +1,5 @@
 # Spot_The_Difference
-This is just a simple program which help to find the difference between two similar images with some minute difference.
+This is just a simple program which helps to find the difference between two similar images with some minute difference.
 For using this download xampp or wampp server.
 # Steps to Run
 
