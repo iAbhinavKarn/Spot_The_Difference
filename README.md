@@ -14,5 +14,5 @@ For using this download xampp or wampp server.
 ![Home Page](https://github.com/yupthatcrazyguy/Spot_The_Difference/blob/master/Screenshots/1.png)
 5: Home Page should look like this if above steps done properly.
 ![Uploaded Images](https://github.com/yupthatcrazyguy/Spot_The_Difference/blob/master/Screenshots/2.png)
-6: After uploading images it will show like this.
+6: The output after comparing two images will look like this.....
 ![Output Page](https://github.com/yupthatcrazyguy/Spot_The_Difference/blob/master/Screenshots/3.png)
