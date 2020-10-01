@@ -1,5 +1,3 @@
-
-
 from skimage.measure import compare_ssim
 import cv2
 from datetime import datetime
@@ -41,11 +39,11 @@ filled_after = after.copy()
 for c in contours:
     area = cv2.contourArea(c)
     if area > 20:
-        x,y,w,h = cv2.boundingRect(c)
-        cv2.rectangle(before, (x, y), (x + w, y + h), (36,255,12), 2)
-        cv2.rectangle(after, (x, y), (x + w, y + h), (36,255,12), 2)
-        cv2.drawContours(mask, [c], 0, (0,255,0), -1)
-        cv2.drawContours(filled_after, [c], 0, (0,255,0), -1)
+        x, y, w, h = cv2.boundingRect(c)
+        cv2.rectangle(before, (x, y), (x + w, y + h), (36, 255, 12), 2)
+        cv2.rectangle(after, (x, y), (x + w, y + h), (36, 255, 12), 2)
+        cv2.drawContours(mask, [c], 0, (0, 255, 0), -1)
+        cv2.drawContours(filled_after, [c], 0, (0, 255, 0), -1)
 
 date_string = datetime.now().strftime("%m%d%Y%H%M%S")
 status = cv2.imwrite('../users/final/' + date_string + '__1' + '.jpeg', before)
